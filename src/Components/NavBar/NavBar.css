@@ -1,0 +1,11 @@
+.navbar-container{
+    background: linear-gradient(to left, #8c52ff, #ff5757);
+   
+
+}
+.logo{
+border-bottom-right-radius: 3rem;
+    position: relative;
+    margin: 0rem;
+    width: 300px;
+}
